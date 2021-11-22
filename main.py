@@ -11,4 +11,3 @@ while pricecents>=100:
   pricedollar += 1
   pricecents -= 100
 print (f"The cupcakes cost {pricedollar} dollars and {pricecents} cents")
-
